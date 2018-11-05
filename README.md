@@ -1,1 +1,2 @@
-# sample
+# Hangman
+##Written in Python
